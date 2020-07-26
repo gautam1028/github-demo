@@ -1,3 +1,0 @@
-Starting with my first file with GIT
-
-Adding new lines to commit
